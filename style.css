@@ -1,0 +1,42 @@
+body{
+  background-color: #ffffff;
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: grey;
+  margin-top: 40px;
+}
+
+p{
+  color: grey;
+  text-align: center;
+}
+
+.bilde{
+  width: 200px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.sitat {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.overskrift{
+  margin-top: 50px;
+}
+
+.forfatter{
+  font-style: italic;
+
+}
